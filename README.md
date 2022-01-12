@@ -7,3 +7,8 @@ You can call the program the following way:
 main.py ${path to sudoku}
 ```
 Where "path to sudoku" is the path to a JSON file containing a 9x9 sudoku in a form of a list of lists.
+
+When using it, you should take into account these points:
+- The sudoku solver will solve the sudoku for all its possible solutions. If found, it will show the different solutions by replacing the spaces where multiple number can go with the possible numbers.
+- If the sudoku isn't valid from the start, the sudoku solver will return the invalid sudoku.
+- If the sudoku isn't valid during an intermediate attemp, the sudoku solver will solve as much as possible from the sudoku or crash in the attempt.
