@@ -1,7 +1,7 @@
-<h1 align="center">LHD Build 2022 Sudoku Solver CLI</h1>
+<h1 align="center">Sudoku Solver CLI</h1>
 
 # What is LHD Build 2022 Sudoku Solver CLI?
-LHD Build 2022 Sudoku Solver CLI is a sudoku solver built for the "Build a sudoku solver" LHD: Build 2022's challenge.
+Sudoku Solver CLI is a sudoku solver built for the "Build a sudoku solver" LHD: Build 2022's challenge.
 
 ## Dependencies
 - Python.
